@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\g0odl\\.conda\\envs\\ml\\python.exe"
+    "python.pythonPath": "C:\\Users\\g0odl\\.conda\\envs\\ml\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
